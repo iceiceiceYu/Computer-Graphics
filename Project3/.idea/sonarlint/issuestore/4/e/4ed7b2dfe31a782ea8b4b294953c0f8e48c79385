@@ -1,0 +1,14 @@
+
+wjavascript:S3776w"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(È›¦±8‰®Î¡/
+Ojavascript:S1264z",Replace this "for" loop with a "while" loop.(´ÿÕ™8‰®Î¡/
+ojavascript:S4138æ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(á¿¥x8Š®Î¡/
+ojavascript:S4138î"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(á¿¥x8Š®Î¡/
+pjavascript:S4138ï"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ô›“Ğ8Š®Î¡/
+ujavascript:S4138ı"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶‰”‘üÿÿÿÿ8Š®Î¡/
+ujavascript:S4138ˆ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶‰”‘üÿÿÿÿ8‹®Î¡/
+@javascript:S2814ˆ"'i' is already defined.(¶‰”‘üÿÿÿÿ8‹®Î¡/
+pjavascript:S4138Š"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶ê‰8‹®Î¡/
+javascript:S4144×"XUpdate this function so that its implementation is not identical to the one on line 334.(ÎÙıŸıÿÿÿÿ8‹®Î¡/
+hjavascript:S905Œ"FExpected an assignment or function call and instead saw an expression.(¦¼°n8‹®Î¡/
+ijavascript:S905"FExpected an assignment or function call and instead saw an expression.(Ü±ª–8Œ®Î¡/
+[javascript:S1481¿"2Remove the declaration of the unused 'n' variable.(Õ¤ºàüÿÿÿÿ8Œ®Î¡/

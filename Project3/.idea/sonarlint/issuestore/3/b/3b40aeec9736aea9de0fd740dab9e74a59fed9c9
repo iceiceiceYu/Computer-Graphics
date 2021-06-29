@@ -1,0 +1,30 @@
+
+`javascript:S9055"FExpected an assignment or function call and instead saw an expression.(¼Î	
+ajavascript:S9056"FExpected an assignment or function call and instead saw an expression.(‘›Ó‘
+ajavascript:S9057"FExpected an assignment or function call and instead saw an expression.(×¯¦­
+fjavascript:S9058"FExpected an assignment or function call and instead saw an expression.(šê¯•şÿÿÿÿ
+fjavascript:S9059"FExpected an assignment or function call and instead saw an expression.(ªÉÓ¶ûÿÿÿÿ
+xjavascript:S2703Z"WAdd the "let", "const" or "var" keyword to this declaration of "i" to make it explicit.(Ùêäøÿÿÿÿ
+Hjavascript:S1117|",'gl' is already declared in the upper scope.(–Ø±ş
+ƒjavascript:S4165¡"aReview this redundant assignment: "i" already holds the assigned value along all execution paths.(Â©Ãúÿÿÿÿÿ
+~javascript:S2703½"aAdd the "let", "const" or "var" keyword to this declaration of "animationId" to make it explicit.(«½²ë
+Ijavascript:S1117Ç",'gl' is already declared in the upper scope.(úâ‡Š
+Njavascript:S1117Õ",'gl' is already declared in the upper scope.(ß½‚Ìøÿÿÿÿ
+Ijavascript:S1117è",'gl' is already declared in the upper scope.(¸›Õ
+Ijavascript:S1117õ",'gl' is already declared in the upper scope.(®ÿ©í
+Njavascript:S1117‚",'gl' is already declared in the upper scope.(¡üà ûÿÿÿÿ
+˜javascript:S2681»"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¸ìù«üÿÿÿÿ
+qjavascript:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(È›¦±
+Ijavascript:S1264",Replace this "for" loop with a "while" loop.(´ÿÕ™
+hjavascript:S4138ù"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(á¿¥x
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(á¿¥x
+ijavascript:S4138‚"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ô›“Ğ
+njavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶‰”‘üÿÿÿÿ
+njavascript:S4138›"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶‰”‘üÿÿÿÿ
+9javascript:S2814›"'i' is already defined.(¶‰”‘üÿÿÿÿ
+ijavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶ê‰
+zjavascript:S4144ê"XUpdate this function so that its implementation is not identical to the one on line 609.(ÎÙıŸıÿÿÿÿ
+ajavascript:S905Ÿ"FExpected an assignment or function call and instead saw an expression.(¦¼°n
+bjavascript:S905 "FExpected an assignment or function call and instead saw an expression.(Ü±ª–
+Tjavascript:S1481Ò"2Remove the declaration of the unused 'n' variable.(Õ¤ºàüÿÿÿÿ
+yjavascript:S3973Õ"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ãÆÙÜüÿÿÿÿ
